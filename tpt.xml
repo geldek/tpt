@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="TPT" ext="tpt" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="yes" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00// 01 02((EOL)) 03/* 04*/</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open">(</Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close">)</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">ADJUST&#x000D;&#x000A;ALL&#x000D;&#x000A;ANSIDATE&#x000D;&#x000A;APPLY&#x000D;&#x000A;ARRAY&#x000D;&#x000A;AS&#x000D;&#x000A;ATTR&#x000D;&#x000A;ATTRIBUTES&#x000D;&#x000A;BIGINT&#x000D;&#x000A;BLOB&#x000D;&#x000A;BY&#x000D;&#x000A;BYTE&#x000D;&#x000A;BYTEINT&#x000D;&#x000A;CASE&#x000D;&#x000A;CAST&#x000D;&#x000A;CLOB&#x000D;&#x000A;COMMAND&#x000D;&#x000A;CONSUMER&#x000D;&#x000A;DATACONNECTOR&#x000D;&#x000A;DATE&#x000D;&#x000A;DAY&#x000D;&#x000A;DDL&#x000D;&#x000A;DEC&#x000D;&#x000A;DECIMAL&#x000D;&#x000A;DEFAULT&#x000D;&#x000A;DEFERRED&#x000D;&#x000A;DEFINE&#x000D;&#x000A;DEL&#x000D;&#x000A;DELETE&#x000D;&#x000A;DELIMITED&#x000D;&#x000A;DESCRIPTION&#x000D;&#x000A;DML&#x000D;&#x000A;DUPLICATE&#x000D;&#x000A;ELSE&#x000D;&#x000A;END&#x000D;&#x000A;EXEC&#x000D;&#x000A;EXECUTE&#x000D;&#x000A;EXPORT&#x000D;&#x000A;EXTERNAL&#x000D;&#x000A;EXTRA&#x000D;&#x000A;FASSTEXPORT&#x000D;&#x000A;FASTLOAD&#x000D;&#x000A;FILTER&#x000D;&#x000A;FLOAT&#x000D;&#x000A;FORMATIN&#x000D;&#x000A;FORMATOUT&#x000D;&#x000A;FROM&#x000D;&#x000A;GRAPHIC&#x000D;&#x000A;HOUR&#x000D;&#x000A;CHAR&#x000D;&#x000A;CHARACTER&#x000D;&#x000A;CHARACTERS&#x000D;&#x000A;CHARS&#x000D;&#x000A;IGNORE&#x000D;&#x000A;INMOD&#x000D;&#x000A;INPUT&#x000D;&#x000A;INS&#x000D;&#x000A;INSERT&#x000D;&#x000A;INSERTER&#x000D;&#x000A;INT&#x000D;&#x000A;INTDATE&#x000D;&#x000A;INTEGER&#x000D;&#x000A;INTERVAL&#x000D;&#x000A;IS&#x000D;&#x000A;JOB&#x000D;&#x000A;JSON&#x000D;&#x000A;LOAD&#x000D;&#x000A;MACROCHARSET&#x000D;&#x000A;MARK&#x000D;&#x000A;METADATA&#x000D;&#x000A;MINUTE&#x000D;&#x000A;MISSING&#x000D;&#x000A;MULTILOAD&#x000D;&#x000A;NAME&#x000D;&#x000A;NOT&#x000D;&#x000A;NULL&#x000D;&#x000A;NUMBER&#x000D;&#x000A;NUMBERIC&#x000D;&#x000A;NUMERIC&#x000D;&#x000A;ODBC&#x000D;&#x000A;OF&#x000D;&#x000A;OFF&#x000D;&#x000A;ON&#x000D;&#x000A;OPERATOR&#x000D;&#x000A;OS&#x000D;&#x000A;OUTMOD&#x000D;&#x000A;OUTPUT&#x000D;&#x000A;PERIOD&#x000D;&#x000A;PRODUCER&#x000D;&#x000A;ROWS&#x000D;&#x000A;SECOND&#x000D;&#x000A;SEL&#x000D;&#x000A;SELECT&#x000D;&#x000A;SELECTOR&#x000D;&#x000A;SERIALIZE&#x000D;&#x000A;SET&#x000D;&#x000A;SCHEMA&#x000D;&#x000A;SCHEMAMAPPER&#x000D;&#x000A;SMALLINT&#x000D;&#x000A;STANDALONE&#x000D;&#x000A;STEP&#x000D;&#x000A;STREAM&#x000D;&#x000A;SUPPORT&#x000D;&#x000A;TABLE&#x000D;&#x000A;THEN&#x000D;&#x000A;TIME&#x000D;&#x000A;TIMESTAMP&#x000D;&#x000A;TO&#x000D;&#x000A;UNICODE&#x000D;&#x000A;UNION&#x000D;&#x000A;UPD&#x000D;&#x000A;UPDATE&#x000D;&#x000A;UPS&#x000D;&#x000A;USE&#x000D;&#x000A;USING&#x000D;&#x000A;USINGEXTENSION&#x000D;&#x000A;VARBYTE&#x000D;&#x000A;VARDATE&#x000D;&#x000A;VARGRAPHIC&#x000D;&#x000A;VARCHAR&#x000D;&#x000A;VARYING&#x000D;&#x000A;VIA&#x000D;&#x000A;WHEN&#x000D;&#x000A;WHERE&#x000D;&#x000A;WITH&#x000D;&#x000A;ZONE</Keywords>
+            <Keywords name="Keywords2">@</Keywords>
+            <Keywords name="Keywords3">$</Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&apos; 01 02&apos; 03&quot; 04 05&quot; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontStyle="0" nesting="512" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="800080" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0080FF" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="FF8000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="FF8000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
